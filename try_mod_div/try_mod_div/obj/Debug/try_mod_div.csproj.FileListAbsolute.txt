@@ -1,0 +1,8 @@
+C:\github\C#\Learn\C# Learn\try_mod_div\try_mod_div\bin\Debug\try_mod_div.exe.config
+C:\github\C#\Learn\C# Learn\try_mod_div\try_mod_div\bin\Debug\try_mod_div.exe
+C:\github\C#\Learn\C# Learn\try_mod_div\try_mod_div\bin\Debug\try_mod_div.pdb
+C:\github\C#\Learn\C# Learn\try_mod_div\try_mod_div\obj\Debug\try_mod_div.csproj.AssemblyReference.cache
+C:\github\C#\Learn\C# Learn\try_mod_div\try_mod_div\obj\Debug\try_mod_div.csproj.SuggestedBindingRedirects.cache
+C:\github\C#\Learn\C# Learn\try_mod_div\try_mod_div\obj\Debug\try_mod_div.csproj.CoreCompileInputs.cache
+C:\github\C#\Learn\C# Learn\try_mod_div\try_mod_div\obj\Debug\try_mod_div.exe
+C:\github\C#\Learn\C# Learn\try_mod_div\try_mod_div\obj\Debug\try_mod_div.pdb

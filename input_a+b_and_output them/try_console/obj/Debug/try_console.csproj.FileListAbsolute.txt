@@ -6,3 +6,11 @@ C:\github\C#\Learn\C# Learn\try_console\try_console\obj\Debug\try_console.csproj
 C:\github\C#\Learn\C# Learn\try_console\try_console\obj\Debug\try_console.csproj.CoreCompileInputs.cache
 C:\github\C#\Learn\C# Learn\try_console\try_console\obj\Debug\try_console.exe
 C:\github\C#\Learn\C# Learn\try_console\try_console\obj\Debug\try_console.pdb
+C:\github\C#\Learn\C# Learn\input_a+b_and_output them\try_console\bin\Debug\try_console.exe.config
+C:\github\C#\Learn\C# Learn\input_a+b_and_output them\try_console\bin\Debug\try_console.exe
+C:\github\C#\Learn\C# Learn\input_a+b_and_output them\try_console\bin\Debug\try_console.pdb
+C:\github\C#\Learn\C# Learn\input_a+b_and_output them\try_console\obj\Debug\try_console.csproj.AssemblyReference.cache
+C:\github\C#\Learn\C# Learn\input_a+b_and_output them\try_console\obj\Debug\try_console.csproj.SuggestedBindingRedirects.cache
+C:\github\C#\Learn\C# Learn\input_a+b_and_output them\try_console\obj\Debug\try_console.csproj.CoreCompileInputs.cache
+C:\github\C#\Learn\C# Learn\input_a+b_and_output them\try_console\obj\Debug\try_console.exe
+C:\github\C#\Learn\C# Learn\input_a+b_and_output them\try_console\obj\Debug\try_console.pdb
