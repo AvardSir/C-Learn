@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1654E6B9-1EA1-45ED-B650-A6D2C0BF2221}</ProjectGuid>
+    <ProjectGuid>{5AC99C03-E56A-4A1C-A978-4E65085EB8EE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>try_mod_div</RootNamespace>
-    <AssemblyName>try_mod_div</AssemblyName>
+    <RootNamespace>The_while_Loop</RootNamespace>
+    <AssemblyName>The while Loop</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

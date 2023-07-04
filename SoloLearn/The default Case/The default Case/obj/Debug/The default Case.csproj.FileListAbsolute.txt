@@ -1,0 +1,8 @@
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case\The default Case\bin\Debug\The default Case.exe.config
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case\The default Case\bin\Debug\The default Case.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case\The default Case\bin\Debug\The default Case.pdb
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case\The default Case\obj\Debug\The default Case.csproj.AssemblyReference.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case\The default Case\obj\Debug\The default Case.csproj.SuggestedBindingRedirects.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case\The default Case\obj\Debug\The default Case.csproj.CoreCompileInputs.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case\The default Case\obj\Debug\The default Case.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case\The default Case\obj\Debug\The default Case.pdb

@@ -1,0 +1,3 @@
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case_with_switch\The default Case_with_switch\obj\Debug\The default Case_with_switch.csproj.AssemblyReference.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case_with_switch\The default Case_with_switch\obj\Debug\The default Case_with_switch.csproj.SuggestedBindingRedirects.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\The default Case_with_switch\The default Case_with_switch\obj\Debug\The default Case_with_switch.csproj.CoreCompileInputs.cache

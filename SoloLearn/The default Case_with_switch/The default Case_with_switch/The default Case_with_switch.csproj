@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1654E6B9-1EA1-45ED-B650-A6D2C0BF2221}</ProjectGuid>
+    <ProjectGuid>{911EE1B3-44BD-4682-8EE9-3826840E5E71}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>try_mod_div</RootNamespace>
-    <AssemblyName>try_mod_div</AssemblyName>
+    <RootNamespace>The_default_Case_with_switch</RootNamespace>
+    <AssemblyName>The default Case_with_switch</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

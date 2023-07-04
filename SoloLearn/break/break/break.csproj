@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1654E6B9-1EA1-45ED-B650-A6D2C0BF2221}</ProjectGuid>
+    <ProjectGuid>{FDD37D27-71ED-4B0D-AD80-6C4D7B8E149D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>try_mod_div</RootNamespace>
-    <AssemblyName>try_mod_div</AssemblyName>
+    <RootNamespace>break</RootNamespace>
+    <AssemblyName>@break</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
