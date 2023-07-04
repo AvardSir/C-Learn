@@ -10,7 +10,10 @@ namespace Learning_vol2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world!!!"); 
+            Console.WriteLine("hello world!!!");
+            Console.WriteLine("hello dad!!!");
+            Console.WriteLine("hello mom!!!");
+            Console.WriteLine("hello goverment!!!");
         }
     }
 }
