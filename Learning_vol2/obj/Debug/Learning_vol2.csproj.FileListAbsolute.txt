@@ -1,0 +1,8 @@
+C:\github\C#\Learn\Learning_vol2\Learning_vol2\obj\Debug\Learning_vol2.csproj.AssemblyReference.cache
+C:\github\C#\Learn\Learning_vol2\Learning_vol2\obj\Debug\Learning_vol2.csproj.SuggestedBindingRedirects.cache
+C:\github\C#\Learn\Learning_vol2\Learning_vol2\obj\Debug\Learning_vol2.csproj.CoreCompileInputs.cache
+C:\github\C#\Learn\Learning_vol2\Learning_vol2\bin\Debug\Learning_vol2.exe.config
+C:\github\C#\Learn\Learning_vol2\Learning_vol2\bin\Debug\Learning_vol2.exe
+C:\github\C#\Learn\Learning_vol2\Learning_vol2\bin\Debug\Learning_vol2.pdb
+C:\github\C#\Learn\Learning_vol2\Learning_vol2\obj\Debug\Learning_vol2.exe
+C:\github\C#\Learn\Learning_vol2\Learning_vol2\obj\Debug\Learning_vol2.pdb
