@@ -52,7 +52,21 @@ namespace Learning_vol2
             bool im_cool = true;
             bool homework_is_boring = true;
             bool war_is_peace = false;
-            if (im_cool){ Console.WriteLine("im cool");if (homework_is_boring) {Console.WriteLine("homework boring");if (war_is_peace) { Console.WriteLine("war is peac"); }; (else) { Console.WriteLine("war is NOT peac"); } } }
+
+            //if (im_cool){ Console.WriteLine("im cool");if (homework_is_boring) {Console.WriteLine("homework boring");if (war_is_peace) { Console.WriteLine("war is peac"); }; else() { Console.WriteLine("war is NOT peac"); } } }
+            int A = 3;
+            int B = 3;
+            int C = 3;
+            Console.WriteLine("A and a are diferent Varuable");
+
+            double double_A = 0.333;
+            double double_B = 555.644;
+            Console.WriteLine("Now im +++ Double ");
+            Console.WriteLine(double_A + double_B);
+            char a2 = 'f';
+
+
+
         }
     }
 }
