@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try_mod_div", "try_mod_div\try_mod_div.csproj", "{1654E6B9-1EA1-45ED-B650-A6D2C0BF2221}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_project_in_one_solution", "Two_project_in_one_solution\Two_project_in_one_solution.csproj", "{CE13D390-77CF-4CF2-9D74-3FB41AB10F5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1654E6B9-1EA1-45ED-B650-A6D2C0BF2221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1654E6B9-1EA1-45ED-B650-A6D2C0BF2221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1654E6B9-1EA1-45ED-B650-A6D2C0BF2221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE13D390-77CF-4CF2-9D74-3FB41AB10F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE13D390-77CF-4CF2-9D74-3FB41AB10F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE13D390-77CF-4CF2-9D74-3FB41AB10F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE13D390-77CF-4CF2-9D74-3FB41AB10F5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

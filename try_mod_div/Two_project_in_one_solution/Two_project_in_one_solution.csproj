@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1654E6B9-1EA1-45ED-B650-A6D2C0BF2221}</ProjectGuid>
+    <ProjectGuid>{CE13D390-77CF-4CF2-9D74-3FB41AB10F5D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>try_mod_div</RootNamespace>
-    <AssemblyName>try_mod_div</AssemblyName>
+    <RootNamespace>Two_project_in_one_solution</RootNamespace>
+    <AssemblyName>Two_project_in_one_solution</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FileName.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,8 @@
+C:\github\C#\Learn\C# Learn\try_mod_div\Two_project_in_one_solution\bin\Debug\Two_project_in_one_solution.exe.config
+C:\github\C#\Learn\C# Learn\try_mod_div\Two_project_in_one_solution\bin\Debug\Two_project_in_one_solution.exe
+C:\github\C#\Learn\C# Learn\try_mod_div\Two_project_in_one_solution\bin\Debug\Two_project_in_one_solution.pdb
+C:\github\C#\Learn\C# Learn\try_mod_div\Two_project_in_one_solution\obj\Debug\Two_project_in_one_solution.csproj.AssemblyReference.cache
+C:\github\C#\Learn\C# Learn\try_mod_div\Two_project_in_one_solution\obj\Debug\Two_project_in_one_solution.csproj.SuggestedBindingRedirects.cache
+C:\github\C#\Learn\C# Learn\try_mod_div\Two_project_in_one_solution\obj\Debug\Two_project_in_one_solution.csproj.CoreCompileInputs.cache
+C:\github\C#\Learn\C# Learn\try_mod_div\Two_project_in_one_solution\obj\Debug\Two_project_in_one_solution.exe
+C:\github\C#\Learn\C# Learn\try_mod_div\Two_project_in_one_solution\obj\Debug\Two_project_in_one_solution.pdb
