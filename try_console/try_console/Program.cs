@@ -10,15 +10,11 @@ namespace try_console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("input first:\t");
-            string a = Console.ReadLine();
-            int a_int = Convert.ToInt32(a);
+            Console.WriteLine("Whats your favorit color:?");
+            string color = Console.ReadLine();
 
-            Console.WriteLine("input second:\t");
-            string b = Console.ReadLine();
-            int b_int = Convert.ToInt32(b);
+            Console.WriteLine("Good your favorite colour is "+ color+" but my colour is RED!!!!");
 
-            Console.WriteLine(a_int + b_int);
         }
     }
 }
