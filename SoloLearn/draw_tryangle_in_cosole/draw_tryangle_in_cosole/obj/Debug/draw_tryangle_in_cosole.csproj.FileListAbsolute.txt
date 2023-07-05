@@ -1,0 +1,8 @@
+C:\github\C#\Learn\C# Learn\SoloLearn\draw_tryangle_in_cosole\draw_tryangle_in_cosole\bin\Debug\draw_tryangle_in_cosole.exe.config
+C:\github\C#\Learn\C# Learn\SoloLearn\draw_tryangle_in_cosole\draw_tryangle_in_cosole\bin\Debug\draw_tryangle_in_cosole.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\draw_tryangle_in_cosole\draw_tryangle_in_cosole\bin\Debug\draw_tryangle_in_cosole.pdb
+C:\github\C#\Learn\C# Learn\SoloLearn\draw_tryangle_in_cosole\draw_tryangle_in_cosole\obj\Debug\draw_tryangle_in_cosole.csproj.AssemblyReference.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\draw_tryangle_in_cosole\draw_tryangle_in_cosole\obj\Debug\draw_tryangle_in_cosole.csproj.SuggestedBindingRedirects.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\draw_tryangle_in_cosole\draw_tryangle_in_cosole\obj\Debug\draw_tryangle_in_cosole.csproj.CoreCompileInputs.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\draw_tryangle_in_cosole\draw_tryangle_in_cosole\obj\Debug\draw_tryangle_in_cosole.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\draw_tryangle_in_cosole\draw_tryangle_in_cosole\obj\Debug\draw_tryangle_in_cosole.pdb

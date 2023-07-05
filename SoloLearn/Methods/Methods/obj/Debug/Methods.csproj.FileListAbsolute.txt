@@ -1,3 +1,8 @@
 C:\github\C#\Learn\C# Learn\SoloLearn\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
 C:\github\C#\Learn\C# Learn\SoloLearn\Methods\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
 C:\github\C#\Learn\C# Learn\SoloLearn\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\Methods\Methods\bin\Debug\Methods.exe.config
+C:\github\C#\Learn\C# Learn\SoloLearn\Methods\Methods\bin\Debug\Methods.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\Methods\Methods\bin\Debug\Methods.pdb
+C:\github\C#\Learn\C# Learn\SoloLearn\Methods\Methods\obj\Debug\Methods.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\Methods\Methods\obj\Debug\Methods.pdb
