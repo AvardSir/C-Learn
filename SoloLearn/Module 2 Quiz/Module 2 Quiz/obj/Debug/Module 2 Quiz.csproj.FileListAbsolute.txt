@@ -1,0 +1,8 @@
+C:\github\C#\Learn\C# Learn\SoloLearn\Module 2 Quiz\Module 2 Quiz\bin\Debug\Module 2 Quiz.exe.config
+C:\github\C#\Learn\C# Learn\SoloLearn\Module 2 Quiz\Module 2 Quiz\bin\Debug\Module 2 Quiz.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\Module 2 Quiz\Module 2 Quiz\bin\Debug\Module 2 Quiz.pdb
+C:\github\C#\Learn\C# Learn\SoloLearn\Module 2 Quiz\Module 2 Quiz\obj\Debug\Module 2 Quiz.csproj.AssemblyReference.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\Module 2 Quiz\Module 2 Quiz\obj\Debug\Module 2 Quiz.csproj.SuggestedBindingRedirects.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\Module 2 Quiz\Module 2 Quiz\obj\Debug\Module 2 Quiz.csproj.CoreCompileInputs.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\Module 2 Quiz\Module 2 Quiz\obj\Debug\Module 2 Quiz.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\Module 2 Quiz\Module 2 Quiz\obj\Debug\Module 2 Quiz.pdb
