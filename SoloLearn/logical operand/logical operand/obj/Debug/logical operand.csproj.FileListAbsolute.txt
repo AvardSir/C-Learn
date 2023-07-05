@@ -1,0 +1,8 @@
+C:\github\C#\Learn\C# Learn\SoloLearn\logical operand\logical operand\obj\Debug\logical operand.csproj.AssemblyReference.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\logical operand\logical operand\obj\Debug\logical operand.csproj.SuggestedBindingRedirects.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\logical operand\logical operand\obj\Debug\logical operand.csproj.CoreCompileInputs.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\logical operand\logical operand\bin\Debug\logical operand.exe.config
+C:\github\C#\Learn\C# Learn\SoloLearn\logical operand\logical operand\bin\Debug\logical operand.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\logical operand\logical operand\bin\Debug\logical operand.pdb
+C:\github\C#\Learn\C# Learn\SoloLearn\logical operand\logical operand\obj\Debug\logical operand.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\logical operand\logical operand\obj\Debug\logical operand.pdb
