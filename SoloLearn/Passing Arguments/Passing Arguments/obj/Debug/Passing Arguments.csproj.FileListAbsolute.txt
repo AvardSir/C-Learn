@@ -1,0 +1,8 @@
+C:\github\C#\Learn\C# Learn\SoloLearn\Passing Arguments\Passing Arguments\bin\Debug\Passing Arguments.exe.config
+C:\github\C#\Learn\C# Learn\SoloLearn\Passing Arguments\Passing Arguments\bin\Debug\Passing Arguments.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\Passing Arguments\Passing Arguments\bin\Debug\Passing Arguments.pdb
+C:\github\C#\Learn\C# Learn\SoloLearn\Passing Arguments\Passing Arguments\obj\Debug\Passing Arguments.csproj.AssemblyReference.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\Passing Arguments\Passing Arguments\obj\Debug\Passing Arguments.csproj.SuggestedBindingRedirects.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\Passing Arguments\Passing Arguments\obj\Debug\Passing Arguments.csproj.CoreCompileInputs.cache
+C:\github\C#\Learn\C# Learn\SoloLearn\Passing Arguments\Passing Arguments\obj\Debug\Passing Arguments.exe
+C:\github\C#\Learn\C# Learn\SoloLearn\Passing Arguments\Passing Arguments\obj\Debug\Passing Arguments.pdb
